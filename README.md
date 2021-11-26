@@ -24,9 +24,9 @@ of plots, histograms, etc. Author: Andraž Kocjan ( more info: taoteck@gmail.com
 
 
 
-*****************************************************
-EXECUTABLE Python file is >>> hea_modeliranje_AI.py
-****************************************************
+***************************************************************
+EXECUTABLE Python file is >>> MultiPhaser_update_19-08-2019.py
+***************************************************************
 
 
 
