@@ -24,6 +24,14 @@ of plots, histograms, etc. Author: Andraž Kocjan ( more info: taoteck@gmail.com
 
 
 
+*****************************************************
+EXECUTABLE Python file is >>> hea_modeliranje_AI.py
+****************************************************
+
+
+
+
+
 """ ....................... Slovenian language README ................................................................................................................ """
 
 Navodila za inštalacijo programa MultiPhaser v okolju Windows. Avtor: Andraž Kocjan, IMT, Julij 2019.
